@@ -39,7 +39,7 @@ const AboutUs = () => {
       name: "Alejandro Valentin Allende",
       country: "Argentina",
       image:
-        "https://media-exp1.licdn.com/dms/image/C4E03AQFr8Nu9kCC0Lw/profile-displayphoto-shrink_800_800/0/1656606041382?e=1668643200&v=beta&t=IWURSucrhIZORZPZyk3tXtAnNTgtlHUJHe22oBUdQxE",
+        "https://media-exp1.licdn.com/dms/image/D4D03AQFY-87eivwZfA/profile-displayphoto-shrink_200_200/0/1664302793669?e=1669852800&v=beta&t=WAxIbZxF7U-C9YB02-Nx8JFZWVsjwhkLd0a1ifC_igA",
       github: "https://github.com/ValentinAllende",
       linkedin:
         "https://www.linkedin.com/in/alejandro-valent%C3%ADn-allende-1747b4240/",
